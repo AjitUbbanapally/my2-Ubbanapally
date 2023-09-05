@@ -12,12 +12,14 @@ Becoming familiar with markdown
     1.Meditate in harmony with nature
     2.Trekking,Mountaineering, River rafting
     3.Play fun games
-    4.M*ake new friends
-    5.Take up Cleanliness drive
+    4.Make new friends
+    5.Take up environment Cleanliness drive
 
 * Unordered list of dishes of food
     * Kesari Halwa
     * Pista ka burfy
-    * Paneer tadka     
+    * Paneer tadka   
+
+
 
 
