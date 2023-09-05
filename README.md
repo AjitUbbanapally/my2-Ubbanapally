@@ -36,6 +36,17 @@ The table consists 3 columns with Names of sports , the reason why that sport co
 |Cricket | builds team spirit |   6-8  |
 | Lawn tennis | makes us swift and alert |  5-6  |
 | Baseball | Its an amazing team sport | 6-7 |
+<br>
 
+***
+# Quotes by famous Scientists
+
+*Sir Albert Einstein*
+>1.Learn from yesterday, live for today, hope for tomorrow<br>
+>2.If you can't explain it simply, you don't understand it well enough
+
+*Sir Thomas Edison*
+>1.Genius is one percent inspiration, ninety-nine percent perspiration.<br>
+>2.There's a better way to do - Find it.
 
 
