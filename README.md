@@ -18,8 +18,9 @@ Becoming familiar with markdown
 * Unordered list of dishes of food
     * Kesari Halwa
     * Pista ka burfy
-    * Paneer tadka   
+    * Paneer tadka
 
+[Mystats link in README.md](MyStats.md)      
 
 
 
