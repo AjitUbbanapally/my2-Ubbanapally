@@ -30,12 +30,13 @@ Becoming familiar with markdown
 The table consists 3 columns with Names of sports , the reason why that sport could be taken and the hours to spend on average in week . The rows list down each of these specification for the sport.
 
  --- 
-| Name of a sport | Reason to recommend | hours to spend on average in week |
+| Name of a sport | Reason to recommend | Hours to spend on average in week |
 | --- | --- | --- |
 |Badminton| Physical fitness | 7-8|
 |Cricket | builds team spirit |   6-8  |
 | Lawn tennis | makes us swift and alert |  5-6  |
 | Baseball | Its an amazing team sport | 6-7 |
+| Soccer | strengthens calf muscles | 6-7 |
 <br>
 
 ***
