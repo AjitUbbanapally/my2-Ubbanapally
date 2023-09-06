@@ -31,7 +31,7 @@ The table consists 3 columns with Names of sports , the reason why that sport co
 
  --- 
 | Name of a sport | Reason to recommend | Hours to spend on average in week |
-| --- | --- | --- |
+| --- | --- | :---: |
 |Badminton| Physical fitness | 7-8|
 |Cricket | builds team spirit |   6-8  |
 | Lawn tennis | makes us swift and alert |  5-6  |
