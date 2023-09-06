@@ -49,4 +49,24 @@ The table consists 3 columns with Names of sports , the reason why that sport co
 >1.Genius is one percent inspiration, ninety-nine percent perspiration.<br>
 >2.There's a better way to do - Find it.
 
+---
+#  Part 9 CODE FENCING
+
+> Problem with custom CSS code in DIVI to allow CSS Grid layout 
+>>  [Click on this link for detailed explanation from Stack overflow](https://stackoverflow.com/questions/77040490/problem-with-custom-css-code-in-divi-to-allow-css-grid-layout)
+
+### Wordpress Snippet
+####  Get Content by ID <br>
+Display algorithm snippet from css-tricks Wordpress
+```
+function get_the_content_by_id($post_id) {
+  $page_data = get_page($post_id);
+  if ($page_data) {
+    return $page_data->post_content;
+  }
+  else return false;
+}
+
+```
+> [for more details from CSS tricks click the link](https://css-tricks.com/snippets/wordpress/get-content-by-id/)
 
